@@ -1,0 +1,12 @@
+#currentAmt,
+#showMoreBtn,
+#noResults,
+#clearBtn,
+#collegesLoader,
+#favoritesLoader {
+    display: none;
+}
+
+h1, h2 {
+    font-family: 'Dosis', sans-serif;
+}
