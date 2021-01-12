@@ -1,6 +1,6 @@
 # College Finder
 
-This application allows users to find college websites based on their search parameters, such as keyword or country. The information for the colleges comes from a combination of two different APIs. Colleges can then be added to a list of favorites, which is saved to local storage.
+This application allows users to find college websites based on their search parameters, such as keyword or country. The information for the colleges comes from a combination of two different APIs. Colleges can then be added to a list of favorites, which is saved to local storage. You can view a live version [here.](https://people.rit.edu/jrn2778/330/project3/)
 
 ### Note
 This application was previously made as an academic project. I moved the code to this new repository for posterity and reference purposes. Find more of my projects at [justinnauta.com](https://justinnauta.com)
